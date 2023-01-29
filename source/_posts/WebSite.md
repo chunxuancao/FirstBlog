@@ -51,6 +51,8 @@
 
 这个是一个网页情况运行会变成
 
-![](E:\Personal%20blog\Blog1\Web%20Site\parallaxScrollingWebsite01\images\Snipaste_2023-01-21_16-30-40.png)
+![loading-ag-143](Snipaste_2023-01-21_16-30-40.png)
 
-![](E:\Personal%20blog\Blog1\Web%20Site\parallaxScrollingWebsite01\images\Snipaste_2023-01-21_16-31-14.png)
+![](image2.png)
+
+
