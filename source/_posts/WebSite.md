@@ -1,3 +1,6 @@
+title: JavaScript的学习
+---
+
 # JavaScript的学习
 
 ***
@@ -54,5 +57,3 @@
 ![loading-ag-143](Snipaste_2023-01-21_16-30-40.png)
 
 ![](image2.png)
-
-
