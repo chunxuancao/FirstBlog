@@ -1,0 +1,78 @@
+title: chuxuan的知识库
+subtitle: ''
+description: '知识库'
+keywords:
+author: chuxuan
+language: zh-CN
+timezone: ''
+# 基本信息配置
+
+post_asset_folder: true
+# 开启文章资源夹
+
+url: https://chuxuanknowledgebase.top/
+# 设置为自己的域名
+
+
+theme: butterfly
+# 设置自己的主题
+
+
+# Schemes 主题方案
+scheme: Muse
+#scheme: Mist
+#scheme: Pisces
+#scheme: Gemini
+# 这四种自己选
+
+favicon:
+ small: /img/avatar.jfif
+ medium: /img/avatar.jfif
+ apple_touch_icon: /img/avatar.jfif
+ safari_pinned_tab: /images/logo.svg
+# 设置站点icon，在favicon中，可以设置侧边栏头像以及站点icon。需要把你的icon放在 source/img/目录下
+
+menu:
+ home: / || fa fa-home
+ #about: /about/ || fa fa-user
+ tags: /tags/ || fa fa-tags
+ categories: /categories/ || fa fa-th
+ archives: /archives/ || fa fa-archive
+ guestbook: /guestbook/ || fa fa-book
+ #schedule: /schedule/ || fa fa-calendar
+ #sitemap: /sitemap.xml || fa fa-sitemap
+ #commonweal: /404/ || fa fa-heartbeat
+# 设置菜单栏
+# 在menu下，可以设置菜单显示内容，此版本next支持font awesome图标，可以去官网寻找你喜欢的图标进行替换。
+# 注：相应的菜单栏需要有对应的页面才能打开，不然会404哦！
+
+#调整边栏左右
+#position: left
+position: right
+
+# Sidebar Display (only for Muse | Mist), available values:
+#  - post    expand on posts automatically. Default.
+#  - always  expand for all pages automatically.
+#  - hide    expand only when click on the sidebar toggle icon.
+#  - remove  totally remove sidebar including sidebar toggle.
+display: post
+
+# Sidebar padding in pixels.
+padding: 18
+# Sidebar offset from top menubar in pixels (only for Pisces | Gemini).
+offset: 12
+
+back2top:
+ enable: true
+ # Back to top in sidebar.
+ sidebar: false
+ # Scroll percent label in b2t button.
+ scrollpercent: true
+
+# Reading progress bar
+reading_progress:
+ enable: true
+ # Available values: top | bottom
+ position: bottom
+ color: "#37c6c0"
+ height: 3px
